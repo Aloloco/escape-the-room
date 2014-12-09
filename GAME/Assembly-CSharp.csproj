@@ -46,7 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ExitDoor.cs" />
+     <Compile Include="Assets\Scripts\DoorButton.cs" />
+     <Compile Include="Assets\Scripts\ExitDoor.cs" />
+     <Compile Include="Assets\Scripts\RoomStatus.cs" />
+     <Compile Include="Assets\Scripts\Tags.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Glass Refraction (Pro Only)\Sources\Shaders\Glass-Stained-BumpDistort.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
